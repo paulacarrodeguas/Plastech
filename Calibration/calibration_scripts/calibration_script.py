@@ -6,7 +6,7 @@ import numpy as np
 
 PORT = "COM5"
 BAUD = 115200
-CHANNEL = 0
+CHANNEL = 3
 REPEATS = 6
 SECONDS_PER_READING = 10
 HZ = 10
